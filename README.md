@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Chamundeswari Garre
 
-<!--
-**Chamundeswari-G/Chamundeswari-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Tech Stack
+- **Languages:** SQL
+- **Cloud Warehouses:** Snowflake
+- **ETL / Ingestion:** Fivetran | Azure Data Factory (ADF)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏅 Certifications
+- ❄️ **SnowPro Associate: Platform Certification**
+- 🤖 **Agentic AI Certified Foundations Associate**
+- 📜 **SQL (Basic)** | HackerRank
+
+---
+
+### 📊 Stats & Contact
+![Stats](https://vercel.app)
+
+📬 **Connect:** [LinkedIn](YOUR_LINKEDIN_URL)
