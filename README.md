@@ -15,6 +15,5 @@
 ---
 
 ### 📊 Stats & Contact
-![Stats](https://vercel.app)
 
 📬 **Connect:** [LinkedIn](https://in.linkedin.com/in/chamundeswari-garre-ab48133a2)
