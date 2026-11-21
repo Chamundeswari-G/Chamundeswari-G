@@ -3,7 +3,7 @@
 ### ⚙️ Tech Stack
 - **Languages:** SQL
 - **Cloud Warehouses:** Snowflake
-- **ETL / Ingestion:** Fivetran | Azure Data Factory (ADF) | Data Build Tool (DBT)A
+- **ETL / Ingestion:** Fivetran | Azure Data Factory (ADF) | Data Build Tool (DBT)
 
 ---
 
